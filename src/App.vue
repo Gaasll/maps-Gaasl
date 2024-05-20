@@ -50,9 +50,7 @@ export default {
   color: #c5c9ce;
   background-image: url('./assets/back.png');
   background-attachment: fixed;
-  /* Add this line */
   background-size: cover;
-  /* Optional: Ensure the image covers the whole area */
 }
 
 #map-section {
@@ -78,4 +76,16 @@ body {
   background: #415eaf;
 }
 
+/* Add media queries to adjust the background size for smaller screens */
+@media (max-width: 768px) {
+  #app {
+    background-size: contain;
+  }
+}
+
+@media (max-width: 480px) {
+  #app {
+    background-size: 100%;
+  }
+}
 </style>
