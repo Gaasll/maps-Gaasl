@@ -49,15 +49,14 @@ export default {
   text-align: center;
   color: #c5c9ce;
   background-image: url('./assets/back.png');
-
-
+  background-attachment: fixed;
+  /* Add this line */
+  background-size: cover;
+  /* Optional: Ensure the image covers the whole area */
 }
-
-
 
 #map-section {
   margin-top: 60px;
- align-self: center;
 }
 
 .rsvp-button {
@@ -69,19 +68,14 @@ export default {
   border-radius: 5px;
   color: white;
   cursor: pointer;
-  
 }
 
 .rsvp-button:hover {
   color: rgba(255, 255, 255, 0.592);
 }
 
-
-
-
 body {
   background: #415eaf;
 }
-
 
 </style>

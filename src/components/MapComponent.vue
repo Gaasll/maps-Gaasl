@@ -68,7 +68,7 @@ export default {
 
       // Add a marker to the map
       const marker5 = L.marker([59.270376222695965, 18.05163606439045], { icon: customIcon5}).addTo(this.map);
-      marker5.bindPopup("<b>22:00-23:00 - Hemma! </b><br>När vi ändå befinner oss söder om stan tycker jag vi håller lite i pengarna och shottar och fixar hemma hos oss (Trollesundsvägen 15E). ").openPopup();
+      marker5.bindPopup("<b>22:00-23:00 - Hemma! </b><br>När vi ändå befinner oss söder om stan tycker vi ändå att tårta och kaffe vore trevligt. (Trollesundsvägen 15E). ").openPopup();
     
       const customIcon6 = L.icon({
         iconUrl: require('/src/assets/six.png'),
@@ -86,7 +86,7 @@ export default {
 
       // Add a marker to the map
       const marker7 = L.marker([59.30435138388316, 18.080197571019873], { icon: customIcon7 }).addTo(this.map);
-      marker7.bindPopup("<b>00:30-03:00 - Trädgården  </b><br>Vi går i mål på allas vår favoritställe Trädgården. ").openPopup();
+      marker7.bindPopup("<b>00:30-03:00 - Trädgården  </b><br>Vi går i mål på vårt allas favoritställe Trädgården. ").openPopup();
     }
   }
 }

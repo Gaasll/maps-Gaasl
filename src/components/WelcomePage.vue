@@ -2,11 +2,11 @@
   <div class="welcome-page">
     <h1 class="title">Hej gos! 🫰🏻</h1>
     <p class="content">
-      Jag blir blotta 31 och vill fira det med er fina såklart???
-      <br><br>Välkomnar er därför på en barhopparkväll den 14 juni vi sent lär
+      Den ene blir blotta 31 och den andre har fuckin tagit examen på KTH, detta vill fira det med er fina såklart???
+      <br><br>Vi bjuder därför in er på en barhopparkväll den 14 juni vi sent lär
       glömma.
 
-      Upplägget talar för sig själv. Vi ses på en bar och färdas till nästa. Ni känner ju mig vid det här laget så vi
+      Upplägget talar för sig själv. Vi ses på en bar och färdas till nästa. Ni känner ju oss vid det här laget så vi
       håller inte igen denna kväll heller, ett ambitiöst schema väntar. <br><br>Tåget går från takåsarna på Söder > via
       en
       omplacerad plåtpark för lite mat > ett stopp i hippa Slaktis > ett vattenhålsstopp hemma där det bjuds på kaffe
@@ -19,10 +19,12 @@
       stan!!!
       Längtar efter detta!<br><br>
       Klem 💖
-      Albin
+      Albin & Garo
     </p>
 
     
+
+
 
     <br><br><br><br>
   </div>
@@ -79,6 +81,7 @@ export default {
  
   /* Delay for content to fade in after the title */
 }
+
 
 
 

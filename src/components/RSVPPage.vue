@@ -4,9 +4,12 @@
     <h1 class="title">OSA</h1>
     <p class="description">
       OSA gärna om du kommer och ange i meddelandet hur många ni blir. Du kommer att få en bekräftelse via e-post som
-      innehåller en kalenderlänk. Använd länken för att lägga till kvällen i din kalender så att du inte missar detta
-      magiska event.
+      innehåller en kalenderlänk. Använd länken för att lägga till eventet i din kalender så att du inte missar denna
+      härliga kväll.
     </p>
+
+    <img src="../assets/meme.gif">
+    <br><br><br>
     <form @submit.prevent="sendEmail">
       <label for="name"></label>
       <input type="text" v-model="name" id="name" name="name" placeholder="Ditt namn." required>
