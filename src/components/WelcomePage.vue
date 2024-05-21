@@ -69,7 +69,7 @@ export default {
   font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
   margin-bottom: 20px;
   opacity: 0;
-  animation: fadeIn 3s forwards;
+  animation: fadeIn 2s forwards;
 }
 
 .content {
@@ -77,7 +77,7 @@ export default {
   font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
   margin-bottom: 20px;
   opacity: 0;
-  animation: fadeIn 5s forwards;
+  animation: fadeIn 3s forwards;
  
   /* Delay for content to fade in after the title */
 }
