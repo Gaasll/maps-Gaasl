@@ -9,14 +9,17 @@
       Upplägget talar för sig själv. Vi ses på en bar och färdas till nästa. Ni känner ju oss vid det här laget så vi
       håller inte igen denna kväll heller, ett ambitiöst schema väntar. <br><br>Tåget går från takåsarna på Söder » via
       en
-      omplacerad plåtpark för lite mat » ett stopp i hippa Slaktis » ett vattenhålsstopp hemma där det bjuds på kaffe
+      omplacerad plåtpark för lite <strong>mat</strong> » ett stopp i hippa Slaktis » ett vattenhålsstopp
+      hemma där det bjuds på kaffe
       och
       tårta » vidare till en väderkvarn » för att sedan tillslut styra seglet mot Trädgården. Man hoppar av och på tåget
       precis som behagar - givna pluspoäng om man orkar hela vägen in i kaklet. 😅
+      <br><br>
+      Inga presenter tack, vem orkar konka runt på sånt genom
+      halva stan!!!
 
-      <br><br>Exakt runda hittar ni i kartan nedan. Inga presenter tack, vem orkar konka runt på sånt genom
-      halva
-      stan!!!
+      <br><br>Exakt runda hittar ni i kartan nedan. Klicka på siffrorna för att se hålltider, plats och vad som kan
+      förväntas.
       Längtar efter detta!<br><br>
       Klem 💖
       Albin & Garo
