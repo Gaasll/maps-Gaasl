@@ -48,7 +48,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #c5c9ce;
-  background-image: url('./assets/back.png');
+  background-color: #415eaf;
   background-attachment: fixed;
   background-size: cover;
 }
