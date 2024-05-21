@@ -2,16 +2,16 @@
   <div class="welcome-page">
     <h1 class="title">Hej gos! 🫰🏻</h1>
     <p class="content">
-      Den ene blir blotta 31 och den andre som snart fuckin tar examen på KTH, detta vill fira det med er fina såklart???
-      <br><br>Vi bjuder därför in er på en barhopparkväll den 14 juni vi sent lär
+      Den ene blir blotta 31 och den andre tar snart fuckin examen på KTH, detta vill vi fira det med er fina såklart???
+      <br><br>Vi bjuder därför in er på en barhopparkväll den <strong>14 juni 2024</strong> vi sent lär
       glömma.
 
       Upplägget talar för sig själv. Vi ses på en bar och färdas till nästa. Ni känner ju oss vid det här laget så vi
-      håller inte igen denna kväll heller, ett ambitiöst schema väntar. <br><br>Tåget går från takåsarna på Söder > via
+      håller inte igen denna kväll heller, ett ambitiöst schema väntar. <br><br>Tåget går från takåsarna på Söder » via
       en
-      omplacerad plåtpark för lite mat > ett stopp i hippa Slaktis > ett vattenhålsstopp hemma där det bjuds på kaffe
+      omplacerad plåtpark för lite mat » ett stopp i hippa Slaktis » ett vattenhålsstopp hemma där det bjuds på kaffe
       och
-      tårta > vidare till en väderkvarn > för att sedan tillslut styra seglet mot Trädgården. Man hoppar av och på tåget
+      tårta » vidare till en väderkvarn » för att sedan tillslut styra seglet mot Trädgården. Man hoppar av och på tåget
       precis som behagar - givna pluspoäng om man orkar hela vägen in i kaklet. 😅
 
       <br><br>Exakt runda hittar ni i kartan nedan. Inga presenter tack, vem orkar konka runt på sånt genom
@@ -22,7 +22,7 @@
       Albin & Garo
     </p>
 
-    
+
 
 
 
