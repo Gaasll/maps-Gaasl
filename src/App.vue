@@ -4,7 +4,7 @@
 
 
 
-    <button @click="scrollToRSVP" class="rsvp-button ">OSA HÄR</button>
+    <h1 @click="scrollToRSVP" class="h1 ">OSA HÄR</h1>
     <div id="map-section">
       <MapComponent />
     </div>
@@ -57,19 +57,28 @@ export default {
   margin-top: 60px;
 }
 
-.rsvp-button {
-  margin-top: 40px;
-  padding: 10px 20px;
-  font-size: 16px;
-  background-color: transparent;
-  border: none;
-  border-radius: 5px;
-  color: white;
-  cursor: pointer;
+.h1 {
+  font-size: 2rem;
+    margin-top: 45vh;
+    color: white;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    animation-name: glow;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 
-.rsvp-button:hover {
-  color: rgba(255, 255, 255, 0.592);
+
+
+
+@keyframes glow {
+  from {
+    text-shadow: 0px 0px 5px #fff, 0px 0px 5px #415eaf;
+  }
+
+  to {
+    text-shadow: 0px 0px 20px #fff, 0px 0px 20px #415eaf;
+  }
 }
 
 body {

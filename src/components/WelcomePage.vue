@@ -18,8 +18,9 @@
       Inga presenter tack, vem orkar konka runt på sånt genom
       halva stan!!!
 
-      <br><br>Exakt runda hittar ni i kartan nedan. Klicka på siffrorna för att se hålltider, plats och vad som kan
-      förväntas.
+      <br><br><br><strong>Exakt runda hittar ni i kartan nedan. Klicka på siffrorna för att se hålltider, plats och vad
+        som kan
+        förväntas.</strong>
       Längtar efter detta!<br><br>
       Klem 💖
       Albin & Garo
