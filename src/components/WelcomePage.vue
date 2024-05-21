@@ -2,7 +2,7 @@
   <div class="welcome-page">
     <h1 class="title">Hej gos! 🫰🏻</h1>
     <p class="content">
-      Den ene blir blotta 31 och den andre tar snart fuckin examen på KTH, detta vill vi fira det med er fina såklart???
+      Den ene blir blotta 31 och den andre tar snart fuckin examen på KTH, detta vill vi fira med er fina såklart???
       <br><br>Vi bjuder därför in er på en barhopparkväll den <strong>14 juni 2024</strong> vi sent lär
       glömma.
 
