@@ -48,7 +48,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #c5c9ce;
-  background-color: #415eaf;
+  background-image: url("/src/assets/back.png");
   background-attachment: fixed;
   background-size: cover;
 }
@@ -58,8 +58,8 @@ export default {
 }
 
 .h1 {
-  font-size: 2rem;
-    margin-top: 45vh;
+  font-size: 15px;
+    
     color: white;
     font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
     animation-name: glow;
@@ -96,5 +96,4 @@ body {
   #app {
     background-size: 100%;
   }
-}
-</style>
+}</style>
